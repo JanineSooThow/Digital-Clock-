@@ -1,0 +1,46 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 90px;
+    margin-top: 5%;
+    font-family: 'Montserrat';
+}
+
+h4 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Montserrat';
+    
+}
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color:#7f96ff  ;
+}
+
+/*puts the clock in the middle of the page */
+section {
+    min-height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    font-family: 'Montserrat';
+    color: #7f96ff;
+    font-weight: bold;
+    font-size: 75px;
+    height: 220px;
+    width: 60%;
+    margin: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: white;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+}
+
